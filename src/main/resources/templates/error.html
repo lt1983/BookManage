@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>出错了</title>
+</head>
+<body>
+<div>
+    <span>错误</span><br/>
+    <p>There seems to be a problem with the page of you requested
+    (<span th:text="${path}"></span>.
+    </p>
+    <p th:text="${'Details: ' + message}"></p>
+</div>
+</body>
+</html>

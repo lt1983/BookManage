@@ -1,0 +1,7 @@
+spring:
+  thymeleaf:
+    cache: false
+  data:
+    mongodb:
+      uri: mongodb://user:123456@localhost:27017/bookms
+      
