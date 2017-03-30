@@ -1,4 +1,4 @@
-package com.tars;
+package com.tars.domain;
 
 
 import org.springframework.security.core.GrantedAuthority;

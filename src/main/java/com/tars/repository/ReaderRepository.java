@@ -1,8 +1,7 @@
-package com.tars;
+package com.tars.repository;
 
+import com.tars.domain.Reader;
 import org.springframework.data.jpa.repository.JpaRepository;
-
-import java.util.List;
 
 /**
  * Created by Tars on 2017/3/30.

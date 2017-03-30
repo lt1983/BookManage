@@ -1,4 +1,4 @@
-package com.tars;
+package com.tars.domain;
 
 
 import javax.persistence.Entity;
